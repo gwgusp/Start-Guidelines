@@ -1,14 +1,14 @@
 # Start-Here
-# start-here-guidelines
-Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
+Guidelines on how this group/open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
 ## One rule of this group/community:
 We all are new and some of have experience We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
 
 ## 4 Step guide to get started:
-**1**. Read 
+**1**. Read https://hackernoon.com/how-to-start-contributing-to-open-source-projects-e3c36ebb54e6
 
 **2**. Find out about which projects you can join: 
+  https://github.com/gwgusp
 
 **4**. Make your first Pull Request
 
